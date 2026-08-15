@@ -7,6 +7,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shivachahar01/LeetCode_Question/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/shivachahar01/LeetCode_Question/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/shivachahar01/LeetCode_Question/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/shivachahar01/LeetCode_Question/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/shivachahar01/LeetCode_Question/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/shivachahar01/LeetCode_Question/tree/master/0283-move-zeroes) |
 ## Two Pointers
@@ -31,4 +32,8 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/shivachahar01/LeetCode_Question/tree/master/0217-contains-duplicate) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/shivachahar01/LeetCode_Question/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
