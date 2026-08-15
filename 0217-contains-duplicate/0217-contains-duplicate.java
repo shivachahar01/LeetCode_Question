@@ -2,12 +2,12 @@ class Solution {
     public boolean containsDuplicate(int[] nums) {
         Arrays.sort(nums);
         //int j = 0 ;
-        boolean result = false;
+        //boolean result = false;
         for(int i= 1; i <nums.length ; i++){
             if(nums[i]==nums[i-1]){
                 return true;
             }
         }
-        return result;
+        return false;
     }
 }
