@@ -3,9 +3,10 @@ class Solution {
         int count = 0 ; 
         int countB= 0;
         for(int i = 0 ; i <nums.length ; i++){
-            while(nums[i]>0){
+            int num = nums[i];
+            while(num>0){
                 count++;
-                nums[i] = nums[i]/10;
+                num = num/10;
                 
             }
             if(count%2==0){
