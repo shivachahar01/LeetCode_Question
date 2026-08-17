@@ -34,10 +34,12 @@
 | ------- |
 | [0001-two-sum](https://github.com/shivachahar01/LeetCode_Question/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/shivachahar01/LeetCode_Question/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/shivachahar01/LeetCode_Question/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/shivachahar01/LeetCode_Question/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/shivachahar01/LeetCode_Question/tree/master/0242-valid-anagram) |
 ## Math
 |  |
 | ------- |
@@ -54,5 +56,6 @@
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/shivachahar01/LeetCode_Question/tree/master/0242-valid-anagram) |
 | [0709-to-lower-case](https://github.com/shivachahar01/LeetCode_Question/tree/master/0709-to-lower-case) |
 <!---LeetCode Topics End-->
