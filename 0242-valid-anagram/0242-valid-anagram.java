@@ -4,11 +4,6 @@ class Solution {
         char[] a2 = t.toCharArray();
         Arrays.sort(a1);
         Arrays.sort(a2);
-        if(Arrays.equals(a1,a2)){
-            return true;
-        }
-        else{
-            return false;
-        }
+        return Arrays.equals(a1,a2);
     }
 }
