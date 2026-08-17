@@ -58,4 +58,9 @@
 | ------- |
 | [0242-valid-anagram](https://github.com/shivachahar01/LeetCode_Question/tree/master/0242-valid-anagram) |
 | [0709-to-lower-case](https://github.com/shivachahar01/LeetCode_Question/tree/master/0709-to-lower-case) |
+| [0796-rotate-string](https://github.com/shivachahar01/LeetCode_Question/tree/master/0796-rotate-string) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/shivachahar01/LeetCode_Question/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
