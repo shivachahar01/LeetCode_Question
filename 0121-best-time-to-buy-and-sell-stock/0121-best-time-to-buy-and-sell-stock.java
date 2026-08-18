@@ -3,10 +3,15 @@ class Solution {
        int min = prices[0];
        int maxprofit = 0 ;
 		for(int i = 1 ; i <prices.length ; i++){
-            min = Math.min(min , prices[i]);
-            int profit = prices[i] - min;
-            maxprofit = Math.max(maxprofit , profit);
+            if(prices[i]<min){
+                min=prices[i];
+            }
+            int profit = prices[i]-min;
+            if(profit >maxprofit){
+                maxprofit = profit;
+            }
         }
-        return maxprofit;
+            return maxprofit;
+        
     }
 }
