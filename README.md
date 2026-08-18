@@ -9,6 +9,7 @@
 | [0027-remove-element](https://github.com/shivachahar01/LeetCode_Question/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/shivachahar01/LeetCode_Question/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/shivachahar01/LeetCode_Question/tree/master/0066-plus-one) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/shivachahar01/LeetCode_Question/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/shivachahar01/LeetCode_Question/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/shivachahar01/LeetCode_Question/tree/master/0283-move-zeroes) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shivachahar01/LeetCode_Question/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -29,6 +30,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/shivachahar01/LeetCode_Question/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/shivachahar01/LeetCode_Question/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Hash Table
 |  |
 | ------- |
