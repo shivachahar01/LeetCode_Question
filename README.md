@@ -13,6 +13,7 @@
 | [0088-merge-sorted-array](https://github.com/shivachahar01/LeetCode_Question/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shivachahar01/LeetCode_Question/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shivachahar01/LeetCode_Question/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0169-majority-element](https://github.com/shivachahar01/LeetCode_Question/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shivachahar01/LeetCode_Question/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/shivachahar01/LeetCode_Question/tree/master/0283-move-zeroes) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shivachahar01/LeetCode_Question/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -30,6 +31,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/shivachahar01/LeetCode_Question/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/shivachahar01/LeetCode_Question/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -40,12 +42,14 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shivachahar01/LeetCode_Question/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/shivachahar01/LeetCode_Question/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shivachahar01/LeetCode_Question/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shivachahar01/LeetCode_Question/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/shivachahar01/LeetCode_Question/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/shivachahar01/LeetCode_Question/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shivachahar01/LeetCode_Question/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shivachahar01/LeetCode_Question/tree/master/0242-valid-anagram) |
 ## Math
@@ -79,4 +83,12 @@
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shivachahar01/LeetCode_Question/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/shivachahar01/LeetCode_Question/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/shivachahar01/LeetCode_Question/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
