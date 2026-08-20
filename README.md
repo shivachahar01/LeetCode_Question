@@ -16,6 +16,7 @@
 | [0136-single-number](https://github.com/shivachahar01/LeetCode_Question/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/shivachahar01/LeetCode_Question/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shivachahar01/LeetCode_Question/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/shivachahar01/LeetCode_Question/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/shivachahar01/LeetCode_Question/tree/master/0283-move-zeroes) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shivachahar01/LeetCode_Question/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1470-shuffle-the-array](https://github.com/shivachahar01/LeetCode_Question/tree/master/1470-shuffle-the-array) |
@@ -46,6 +47,7 @@
 | [0169-majority-element](https://github.com/shivachahar01/LeetCode_Question/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shivachahar01/LeetCode_Question/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shivachahar01/LeetCode_Question/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/shivachahar01/LeetCode_Question/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
@@ -53,10 +55,12 @@
 | [0169-majority-element](https://github.com/shivachahar01/LeetCode_Question/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shivachahar01/LeetCode_Question/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shivachahar01/LeetCode_Question/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/shivachahar01/LeetCode_Question/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/shivachahar01/LeetCode_Question/tree/master/0066-plus-one) |
+| [0268-missing-number](https://github.com/shivachahar01/LeetCode_Question/tree/master/0268-missing-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shivachahar01/LeetCode_Question/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Prefix Sum
 |  |
@@ -80,6 +84,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/shivachahar01/LeetCode_Question/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/shivachahar01/LeetCode_Question/tree/master/0268-missing-number) |
 ## Greedy
 |  |
 | ------- |
@@ -96,4 +101,5 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/shivachahar01/LeetCode_Question/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/shivachahar01/LeetCode_Question/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
