@@ -44,6 +44,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shivachahar01/LeetCode_Question/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/shivachahar01/LeetCode_Question/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/shivachahar01/LeetCode_Question/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shivachahar01/LeetCode_Question/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shivachahar01/LeetCode_Question/tree/master/0242-valid-anagram) |
@@ -59,6 +60,7 @@
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/shivachahar01/LeetCode_Question/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/shivachahar01/LeetCode_Question/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/shivachahar01/LeetCode_Question/tree/master/0268-missing-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shivachahar01/LeetCode_Question/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -73,6 +75,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/shivachahar01/LeetCode_Question/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/shivachahar01/LeetCode_Question/tree/master/0242-valid-anagram) |
 | [0709-to-lower-case](https://github.com/shivachahar01/LeetCode_Question/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/shivachahar01/LeetCode_Question/tree/master/0796-rotate-string) |
