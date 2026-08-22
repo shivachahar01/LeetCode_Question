@@ -64,6 +64,7 @@
 | [0066-plus-one](https://github.com/shivachahar01/LeetCode_Question/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/shivachahar01/LeetCode_Question/tree/master/0268-missing-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shivachahar01/LeetCode_Question/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/shivachahar01/LeetCode_Question/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Prefix Sum
 |  |
 | ------- |
