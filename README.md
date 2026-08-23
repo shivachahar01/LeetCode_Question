@@ -67,6 +67,7 @@
 | [0066-plus-one](https://github.com/shivachahar01/LeetCode_Question/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/shivachahar01/LeetCode_Question/tree/master/0268-missing-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shivachahar01/LeetCode_Question/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1927-sum-game](https://github.com/shivachahar01/LeetCode_Question/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/shivachahar01/LeetCode_Question/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Prefix Sum
 |  |
@@ -83,6 +84,7 @@
 | [0242-valid-anagram](https://github.com/shivachahar01/LeetCode_Question/tree/master/0242-valid-anagram) |
 | [0709-to-lower-case](https://github.com/shivachahar01/LeetCode_Question/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/shivachahar01/LeetCode_Question/tree/master/0796-rotate-string) |
+| [1927-sum-game](https://github.com/shivachahar01/LeetCode_Question/tree/master/1927-sum-game) |
 ## String Matching
 |  |
 | ------- |
@@ -97,6 +99,7 @@
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shivachahar01/LeetCode_Question/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/shivachahar01/LeetCode_Question/tree/master/0455-assign-cookies) |
+| [1927-sum-game](https://github.com/shivachahar01/LeetCode_Question/tree/master/1927-sum-game) |
 ## Counting
 |  |
 | ------- |
@@ -114,4 +117,8 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/shivachahar01/LeetCode_Question/tree/master/0455-assign-cookies) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/shivachahar01/LeetCode_Question/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
