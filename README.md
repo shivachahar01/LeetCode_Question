@@ -21,6 +21,7 @@
 | [0283-move-zeroes](https://github.com/shivachahar01/LeetCode_Question/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/shivachahar01/LeetCode_Question/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/shivachahar01/LeetCode_Question/tree/master/0455-assign-cookies) |
+| [0930-binary-subarrays-with-sum](https://github.com/shivachahar01/LeetCode_Question/tree/master/0930-binary-subarrays-with-sum) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shivachahar01/LeetCode_Question/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1470-shuffle-the-array](https://github.com/shivachahar01/LeetCode_Question/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/shivachahar01/LeetCode_Question/tree/master/1480-running-sum-of-1d-array) |
@@ -56,6 +57,7 @@
 | [0242-valid-anagram](https://github.com/shivachahar01/LeetCode_Question/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shivachahar01/LeetCode_Question/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/shivachahar01/LeetCode_Question/tree/master/0349-intersection-of-two-arrays) |
+| [0930-binary-subarrays-with-sum](https://github.com/shivachahar01/LeetCode_Question/tree/master/0930-binary-subarrays-with-sum) |
 ## Sorting
 |  |
 | ------- |
@@ -82,6 +84,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/shivachahar01/LeetCode_Question/tree/master/0930-binary-subarrays-with-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/shivachahar01/LeetCode_Question/tree/master/1480-running-sum-of-1d-array) |
 ## Matrix
 |  |
@@ -141,4 +144,8 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/shivachahar01/LeetCode_Question/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/shivachahar01/LeetCode_Question/tree/master/0050-powx-n) |
+## Sliding Window
+|  |
+| ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/shivachahar01/LeetCode_Question/tree/master/0930-binary-subarrays-with-sum) |
 <!---LeetCode Topics End-->
