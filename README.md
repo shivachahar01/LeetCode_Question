@@ -87,6 +87,7 @@
 | [1927-sum-game](https://github.com/shivachahar01/LeetCode_Question/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/shivachahar01/LeetCode_Question/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/shivachahar01/LeetCode_Question/tree/master/3870-count-commas-in-range) |
+| [3871-count-commas-in-range-ii](https://github.com/shivachahar01/LeetCode_Question/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/shivachahar01/LeetCode_Question/tree/master/3875-construct-uniform-parity-array-i) |
 ## Prefix Sum
 |  |
