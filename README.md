@@ -10,6 +10,7 @@
 | [0035-search-insert-position](https://github.com/shivachahar01/LeetCode_Question/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/shivachahar01/LeetCode_Question/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/shivachahar01/LeetCode_Question/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/shivachahar01/LeetCode_Question/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/shivachahar01/LeetCode_Question/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shivachahar01/LeetCode_Question/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shivachahar01/LeetCode_Question/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -34,6 +35,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shivachahar01/LeetCode_Question/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/shivachahar01/LeetCode_Question/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/shivachahar01/LeetCode_Question/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/shivachahar01/LeetCode_Question/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/shivachahar01/LeetCode_Question/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/shivachahar01/LeetCode_Question/tree/master/0202-happy-number) |
@@ -68,6 +70,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/shivachahar01/LeetCode_Question/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/shivachahar01/LeetCode_Question/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/shivachahar01/LeetCode_Question/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shivachahar01/LeetCode_Question/tree/master/0217-contains-duplicate) |
@@ -143,6 +146,7 @@
 ## Quicksort
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/shivachahar01/LeetCode_Question/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/shivachahar01/LeetCode_Question/tree/master/0455-assign-cookies) |
 ## Game Theory
 |  |
@@ -165,4 +169,8 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/shivachahar01/LeetCode_Question/tree/master/0202-happy-number) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/shivachahar01/LeetCode_Question/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
