@@ -29,6 +29,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/shivachahar01/LeetCode_Question/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/shivachahar01/LeetCode_Question/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/shivachahar01/LeetCode_Question/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/shivachahar01/LeetCode_Question/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3875-construct-uniform-parity-array-i](https://github.com/shivachahar01/LeetCode_Question/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
@@ -43,6 +44,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/shivachahar01/LeetCode_Question/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/shivachahar01/LeetCode_Question/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/shivachahar01/LeetCode_Question/tree/master/0455-assign-cookies) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/shivachahar01/LeetCode_Question/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -173,4 +175,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/shivachahar01/LeetCode_Question/tree/master/0075-sort-colors) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/shivachahar01/LeetCode_Question/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
