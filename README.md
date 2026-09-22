@@ -24,6 +24,7 @@
 | [0455-assign-cookies](https://github.com/shivachahar01/LeetCode_Question/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/shivachahar01/LeetCode_Question/tree/master/0485-max-consecutive-ones) |
 | [0930-binary-subarrays-with-sum](https://github.com/shivachahar01/LeetCode_Question/tree/master/0930-binary-subarrays-with-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/shivachahar01/LeetCode_Question/tree/master/1004-max-consecutive-ones-iii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shivachahar01/LeetCode_Question/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1470-shuffle-the-array](https://github.com/shivachahar01/LeetCode_Question/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/shivachahar01/LeetCode_Question/tree/master/1480-running-sum-of-1d-array) |
@@ -102,6 +103,7 @@
 |  |
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/shivachahar01/LeetCode_Question/tree/master/0930-binary-subarrays-with-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/shivachahar01/LeetCode_Question/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/shivachahar01/LeetCode_Question/tree/master/1480-running-sum-of-1d-array) |
 ## Matrix
 |  |
@@ -126,6 +128,7 @@
 | [0035-search-insert-position](https://github.com/shivachahar01/LeetCode_Question/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/shivachahar01/LeetCode_Question/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/shivachahar01/LeetCode_Question/tree/master/0349-intersection-of-two-arrays) |
+| [1004-max-consecutive-ones-iii](https://github.com/shivachahar01/LeetCode_Question/tree/master/1004-max-consecutive-ones-iii) |
 ## Greedy
 |  |
 | ------- |
@@ -167,6 +170,7 @@
 |  |
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/shivachahar01/LeetCode_Question/tree/master/0930-binary-subarrays-with-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/shivachahar01/LeetCode_Question/tree/master/1004-max-consecutive-ones-iii) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
