@@ -22,6 +22,7 @@
 | [0268-missing-number](https://github.com/shivachahar01/LeetCode_Question/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/shivachahar01/LeetCode_Question/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/shivachahar01/LeetCode_Question/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/shivachahar01/LeetCode_Question/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/shivachahar01/LeetCode_Question/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/shivachahar01/LeetCode_Question/tree/master/0485-max-consecutive-ones) |
 | [0930-binary-subarrays-with-sum](https://github.com/shivachahar01/LeetCode_Question/tree/master/0930-binary-subarrays-with-sum) |
@@ -44,6 +45,7 @@
 | [0202-happy-number](https://github.com/shivachahar01/LeetCode_Question/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/shivachahar01/LeetCode_Question/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/shivachahar01/LeetCode_Question/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/shivachahar01/LeetCode_Question/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/shivachahar01/LeetCode_Question/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/shivachahar01/LeetCode_Question/tree/master/0455-assign-cookies) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shivachahar01/LeetCode_Question/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -71,6 +73,7 @@
 | [0242-valid-anagram](https://github.com/shivachahar01/LeetCode_Question/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shivachahar01/LeetCode_Question/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/shivachahar01/LeetCode_Question/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/shivachahar01/LeetCode_Question/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0930-binary-subarrays-with-sum](https://github.com/shivachahar01/LeetCode_Question/tree/master/0930-binary-subarrays-with-sum) |
 ## Sorting
 |  |
@@ -82,6 +85,7 @@
 | [0242-valid-anagram](https://github.com/shivachahar01/LeetCode_Question/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shivachahar01/LeetCode_Question/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/shivachahar01/LeetCode_Question/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/shivachahar01/LeetCode_Question/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/shivachahar01/LeetCode_Question/tree/master/0455-assign-cookies) |
 ## Math
 |  |
@@ -130,6 +134,7 @@
 | [0035-search-insert-position](https://github.com/shivachahar01/LeetCode_Question/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/shivachahar01/LeetCode_Question/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/shivachahar01/LeetCode_Question/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/shivachahar01/LeetCode_Question/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1004-max-consecutive-ones-iii](https://github.com/shivachahar01/LeetCode_Question/tree/master/1004-max-consecutive-ones-iii) |
 ## Greedy
 |  |
