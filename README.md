@@ -168,10 +168,12 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/shivachahar01/LeetCode_Question/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/shivachahar01/LeetCode_Question/tree/master/0021-merge-two-sorted-lists) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/shivachahar01/LeetCode_Question/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/shivachahar01/LeetCode_Question/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/shivachahar01/LeetCode_Question/tree/master/0050-powx-n) |
 ## Sliding Window
 |  |
