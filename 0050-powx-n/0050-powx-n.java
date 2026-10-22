@@ -1,21 +1,31 @@
 class Solution {
     public double myPow(double x, int n) {
-        return binaryExp(x, (long) n);
+        long power = n;
+
+        if (power < 0) {
+            power = -power;
+        }
+
+        double ans = solve(x, power);
+
+        if (n < 0) {
+            return 1.0 / ans;
+        }
+
+        return ans;
     }
 
-    private double binaryExp(double x, long n) {
+    static double solve(double x, long n) {
         if (n == 0) {
-            return 1;
+            return 1.0;
         }
-       
-        if (n < 0) {
-            return 1.0 / binaryExp(x, -n);
+
+        double half = solve(x, n / 2);
+
+        if (n % 2 == 0) {
+            return half * half;
         }
-       
-        if (n % 2 == 1) {
-            return x * binaryExp(x * x, (n - 1) / 2);
-        } else {
-            return binaryExp(x * x, n / 2);
-        }
+
+        return half * half * x;
     }
 }
