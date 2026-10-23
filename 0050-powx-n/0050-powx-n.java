@@ -4,7 +4,6 @@ class Solution {
       if(power<0){
         power = -power;
       }
-
       double ans = pow(x,power);
 
       if(n<0){
@@ -15,7 +14,7 @@ class Solution {
       return ans;
     }
 
-    public static double pow(double x , long n){
+     static double pow(double x , long n){
          if(n==0){
             return 1.0;
         }
