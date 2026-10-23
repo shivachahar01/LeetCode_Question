@@ -1,31 +1,32 @@
 class Solution {
     public double myPow(double x, int n) {
-        long power = n;
+      long power = n;
+      if(power<0){
+        power = -power;
+      }
 
-        if (power < 0) {
-            power = -power;
-        }
+      double ans = pow(x,power);
 
-        double ans = solve(x, power);
+      if(n<0){
+        ans  = 1.0/ans;;
+      }
 
-        if (n < 0) {
-            return 1.0 / ans;
-        }
-
-        return ans;
+      
+      return ans;
     }
 
-    static double solve(double x, long n) {
-        if (n == 0) {
+    public static double pow(double x , long n){
+         if(n==0){
             return 1.0;
         }
+      
+        double half = pow(x,n/2);
 
-        double half = solve(x, n / 2);
-
-        if (n % 2 == 0) {
-            return half * half;
+        if(n%2==0){
+            return half*half;
         }
-
-        return half * half * x;
+        return half*half*x;
+        
     }
+       
 }
