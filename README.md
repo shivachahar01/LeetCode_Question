@@ -34,6 +34,7 @@
 | [1672-richest-customer-wealth](https://github.com/shivachahar01/LeetCode_Question/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/shivachahar01/LeetCode_Question/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shivachahar01/LeetCode_Question/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/shivachahar01/LeetCode_Question/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3875-construct-uniform-parity-array-i](https://github.com/shivachahar01/LeetCode_Question/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
@@ -129,6 +130,7 @@
 | [0709-to-lower-case](https://github.com/shivachahar01/LeetCode_Question/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/shivachahar01/LeetCode_Question/tree/master/0796-rotate-string) |
 | [1927-sum-game](https://github.com/shivachahar01/LeetCode_Question/tree/master/1927-sum-game) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/shivachahar01/LeetCode_Question/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 ## String Matching
 |  |
 | ------- |
