@@ -34,6 +34,7 @@
 | [1672-richest-customer-wealth](https://github.com/shivachahar01/LeetCode_Question/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/shivachahar01/LeetCode_Question/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shivachahar01/LeetCode_Question/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2574-left-and-right-sum-differences](https://github.com/shivachahar01/LeetCode_Question/tree/master/2574-left-and-right-sum-differences) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/shivachahar01/LeetCode_Question/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3875-construct-uniform-parity-array-i](https://github.com/shivachahar01/LeetCode_Question/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
@@ -118,6 +119,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/shivachahar01/LeetCode_Question/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/shivachahar01/LeetCode_Question/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/shivachahar01/LeetCode_Question/tree/master/1480-running-sum-of-1d-array) |
+| [2574-left-and-right-sum-differences](https://github.com/shivachahar01/LeetCode_Question/tree/master/2574-left-and-right-sum-differences) |
 ## Matrix
 |  |
 | ------- |
