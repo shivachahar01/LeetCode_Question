@@ -180,6 +180,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/shivachahar01/LeetCode_Question/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/shivachahar01/LeetCode_Question/tree/master/0021-merge-two-sorted-lists) |
+| [0237-delete-node-in-a-linked-list](https://github.com/shivachahar01/LeetCode_Question/tree/master/0237-delete-node-in-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
