@@ -106,6 +106,7 @@
 | [0202-happy-number](https://github.com/shivachahar01/LeetCode_Question/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/shivachahar01/LeetCode_Question/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/shivachahar01/LeetCode_Question/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/shivachahar01/LeetCode_Question/tree/master/0326-power-of-three) |
 | [0504-base-7](https://github.com/shivachahar01/LeetCode_Question/tree/master/0504-base-7) |
 | [0509-fibonacci-number](https://github.com/shivachahar01/LeetCode_Question/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shivachahar01/LeetCode_Question/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -191,6 +192,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/shivachahar01/LeetCode_Question/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/shivachahar01/LeetCode_Question/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/shivachahar01/LeetCode_Question/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/shivachahar01/LeetCode_Question/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/shivachahar01/LeetCode_Question/tree/master/0509-fibonacci-number) |
 ## Sliding Window
 |  |
