@@ -31,6 +31,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shivachahar01/LeetCode_Question/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1470-shuffle-the-array](https://github.com/shivachahar01/LeetCode_Question/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/shivachahar01/LeetCode_Question/tree/master/1480-running-sum-of-1d-array) |
+| [1512-number-of-good-pairs](https://github.com/shivachahar01/LeetCode_Question/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/shivachahar01/LeetCode_Question/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/shivachahar01/LeetCode_Question/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shivachahar01/LeetCode_Question/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -81,6 +82,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/shivachahar01/LeetCode_Question/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shivachahar01/LeetCode_Question/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0930-binary-subarrays-with-sum](https://github.com/shivachahar01/LeetCode_Question/tree/master/0930-binary-subarrays-with-sum) |
+| [1512-number-of-good-pairs](https://github.com/shivachahar01/LeetCode_Question/tree/master/1512-number-of-good-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -111,6 +113,7 @@
 | [0504-base-7](https://github.com/shivachahar01/LeetCode_Question/tree/master/0504-base-7) |
 | [0509-fibonacci-number](https://github.com/shivachahar01/LeetCode_Question/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shivachahar01/LeetCode_Question/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1512-number-of-good-pairs](https://github.com/shivachahar01/LeetCode_Question/tree/master/1512-number-of-good-pairs) |
 | [1927-sum-game](https://github.com/shivachahar01/LeetCode_Question/tree/master/1927-sum-game) |
 | [2235-add-two-integers](https://github.com/shivachahar01/LeetCode_Question/tree/master/2235-add-two-integers) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/shivachahar01/LeetCode_Question/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -162,6 +165,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shivachahar01/LeetCode_Question/tree/master/0169-majority-element) |
+| [1512-number-of-good-pairs](https://github.com/shivachahar01/LeetCode_Question/tree/master/1512-number-of-good-pairs) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
