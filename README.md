@@ -34,6 +34,7 @@
 | [1512-number-of-good-pairs](https://github.com/shivachahar01/LeetCode_Question/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/shivachahar01/LeetCode_Question/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/shivachahar01/LeetCode_Question/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1920-build-array-from-permutation](https://github.com/shivachahar01/LeetCode_Question/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/shivachahar01/LeetCode_Question/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shivachahar01/LeetCode_Question/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2574-left-and-right-sum-differences](https://github.com/shivachahar01/LeetCode_Question/tree/master/2574-left-and-right-sum-differences) |
@@ -217,6 +218,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1920-build-array-from-permutation](https://github.com/shivachahar01/LeetCode_Question/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/shivachahar01/LeetCode_Question/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shivachahar01/LeetCode_Question/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Memoization
