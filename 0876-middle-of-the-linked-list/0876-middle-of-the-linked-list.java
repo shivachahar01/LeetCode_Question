@@ -15,18 +15,18 @@
  */
 class Solution {
     public ListNode middleNode(ListNode head) {
-        ListNode temp = head;
-        int count =0;
-        while(temp!=null){
-            count++;
-            temp=temp.next;
-        }
-        int y= count/2;
-        temp = head;
-        for(int i =1;i<=y;i++){
-            temp = temp.next;
-        }
-        return temp;
+       ListNode temp = head;
+       int count =0;
+       while(temp!=null){
+        count++;
+        temp = temp.next;
+       }
+       int y = count/2;
+       temp = head;
+       for(int i = 1 ; i<=y ;i++){
+        temp = temp.next;
+       }
+       return temp;
 
     }
 }
