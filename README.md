@@ -202,6 +202,7 @@
 | [0002-add-two-numbers](https://github.com/shivachahar01/LeetCode_Question/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shivachahar01/LeetCode_Question/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/shivachahar01/LeetCode_Question/tree/master/0021-merge-two-sorted-lists) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/shivachahar01/LeetCode_Question/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/shivachahar01/LeetCode_Question/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/shivachahar01/LeetCode_Question/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/shivachahar01/LeetCode_Question/tree/master/0203-remove-linked-list-elements) |
