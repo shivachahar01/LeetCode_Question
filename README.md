@@ -51,6 +51,7 @@
 | [0075-sort-colors](https://github.com/shivachahar01/LeetCode_Question/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/shivachahar01/LeetCode_Question/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/shivachahar01/LeetCode_Question/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/shivachahar01/LeetCode_Question/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/shivachahar01/LeetCode_Question/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/shivachahar01/LeetCode_Question/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/shivachahar01/LeetCode_Question/tree/master/0283-move-zeroes) |
@@ -65,6 +66,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/shivachahar01/LeetCode_Question/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/shivachahar01/LeetCode_Question/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/shivachahar01/LeetCode_Question/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
@@ -96,6 +98,7 @@
 | [0015-3sum](https://github.com/shivachahar01/LeetCode_Question/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/shivachahar01/LeetCode_Question/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/shivachahar01/LeetCode_Question/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/shivachahar01/LeetCode_Question/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/shivachahar01/LeetCode_Question/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shivachahar01/LeetCode_Question/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shivachahar01/LeetCode_Question/tree/master/0242-valid-anagram) |
@@ -200,6 +203,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shivachahar01/LeetCode_Question/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/shivachahar01/LeetCode_Question/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/shivachahar01/LeetCode_Question/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/shivachahar01/LeetCode_Question/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/shivachahar01/LeetCode_Question/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/shivachahar01/LeetCode_Question/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/shivachahar01/LeetCode_Question/tree/master/0876-middle-of-the-linked-list) |
@@ -237,4 +241,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/shivachahar01/LeetCode_Question/tree/master/0509-fibonacci-number) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/shivachahar01/LeetCode_Question/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
