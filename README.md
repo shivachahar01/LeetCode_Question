@@ -198,6 +198,7 @@
 | [0002-add-two-numbers](https://github.com/shivachahar01/LeetCode_Question/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/shivachahar01/LeetCode_Question/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/shivachahar01/LeetCode_Question/tree/master/0141-linked-list-cycle) |
+| [0203-remove-linked-list-elements](https://github.com/shivachahar01/LeetCode_Question/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/shivachahar01/LeetCode_Question/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/shivachahar01/LeetCode_Question/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
@@ -206,6 +207,7 @@
 | [0002-add-two-numbers](https://github.com/shivachahar01/LeetCode_Question/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/shivachahar01/LeetCode_Question/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/shivachahar01/LeetCode_Question/tree/master/0050-powx-n) |
+| [0203-remove-linked-list-elements](https://github.com/shivachahar01/LeetCode_Question/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/shivachahar01/LeetCode_Question/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/shivachahar01/LeetCode_Question/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/shivachahar01/LeetCode_Question/tree/master/0509-fibonacci-number) |
