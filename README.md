@@ -207,6 +207,7 @@
 | [0141-linked-list-cycle](https://github.com/shivachahar01/LeetCode_Question/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/shivachahar01/LeetCode_Question/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/shivachahar01/LeetCode_Question/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/shivachahar01/LeetCode_Question/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/shivachahar01/LeetCode_Question/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/shivachahar01/LeetCode_Question/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/shivachahar01/LeetCode_Question/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -217,6 +218,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/shivachahar01/LeetCode_Question/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/shivachahar01/LeetCode_Question/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/shivachahar01/LeetCode_Question/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/shivachahar01/LeetCode_Question/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/shivachahar01/LeetCode_Question/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/shivachahar01/LeetCode_Question/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/shivachahar01/LeetCode_Question/tree/master/0509-fibonacci-number) |
