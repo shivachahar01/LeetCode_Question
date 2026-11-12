@@ -40,6 +40,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/shivachahar01/LeetCode_Question/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2574-left-and-right-sum-differences](https://github.com/shivachahar01/LeetCode_Question/tree/master/2574-left-and-right-sum-differences) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/shivachahar01/LeetCode_Question/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/shivachahar01/LeetCode_Question/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3875-construct-uniform-parity-array-i](https://github.com/shivachahar01/LeetCode_Question/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
