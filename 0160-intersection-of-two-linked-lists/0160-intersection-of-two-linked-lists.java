@@ -11,8 +11,8 @@
  */
 public class Solution {
     public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
-        int length1 = 50;
-        int length2 = 50 ;
+        int length1 = 67576576;
+        int length2 = 67576576 ;
         ListNode temp = headA;
         ListNode camp = headB;
         while(temp!= null){
