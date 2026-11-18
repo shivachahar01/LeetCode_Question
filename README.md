@@ -65,6 +65,7 @@
 | [0392-is-subsequence](https://github.com/shivachahar01/LeetCode_Question/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/shivachahar01/LeetCode_Question/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/shivachahar01/LeetCode_Question/tree/master/0876-middle-of-the-linked-list) |
+| [2000-reverse-prefix-of-word](https://github.com/shivachahar01/LeetCode_Question/tree/master/2000-reverse-prefix-of-word) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shivachahar01/LeetCode_Question/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
 |  |
@@ -161,6 +162,7 @@
 | [0709-to-lower-case](https://github.com/shivachahar01/LeetCode_Question/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/shivachahar01/LeetCode_Question/tree/master/0796-rotate-string) |
 | [1927-sum-game](https://github.com/shivachahar01/LeetCode_Question/tree/master/1927-sum-game) |
+| [2000-reverse-prefix-of-word](https://github.com/shivachahar01/LeetCode_Question/tree/master/2000-reverse-prefix-of-word) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/shivachahar01/LeetCode_Question/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 ## String Matching
 |  |
@@ -266,4 +268,8 @@
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/shivachahar01/LeetCode_Question/tree/master/0707-design-linked-list) |
+## Stack
+|  |
+| ------- |
+| [2000-reverse-prefix-of-word](https://github.com/shivachahar01/LeetCode_Question/tree/master/2000-reverse-prefix-of-word) |
 <!---LeetCode Topics End-->
