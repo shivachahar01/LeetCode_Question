@@ -18,9 +18,6 @@ class Solution {
                 sa.push(a);
             }
         }
-        if(st.equals(sa)){
-            return true;
-        }
-       else return false;
+      return st.equals(sa);
     }
 }
