@@ -166,6 +166,7 @@
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shivachahar01/LeetCode_Question/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1927-sum-game](https://github.com/shivachahar01/LeetCode_Question/tree/master/1927-sum-game) |
 | [2000-reverse-prefix-of-word](https://github.com/shivachahar01/LeetCode_Question/tree/master/2000-reverse-prefix-of-word) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/shivachahar01/LeetCode_Question/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/shivachahar01/LeetCode_Question/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3174-clear-digits](https://github.com/shivachahar01/LeetCode_Question/tree/master/3174-clear-digits) |
 ## String Matching
