@@ -164,6 +164,7 @@
 | [0796-rotate-string](https://github.com/shivachahar01/LeetCode_Question/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/shivachahar01/LeetCode_Question/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shivachahar01/LeetCode_Question/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1544-make-the-string-great](https://github.com/shivachahar01/LeetCode_Question/tree/master/1544-make-the-string-great) |
 | [1927-sum-game](https://github.com/shivachahar01/LeetCode_Question/tree/master/1927-sum-game) |
 | [2000-reverse-prefix-of-word](https://github.com/shivachahar01/LeetCode_Question/tree/master/2000-reverse-prefix-of-word) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/shivachahar01/LeetCode_Question/tree/master/2124-check-if-all-as-appears-before-all-bs) |
@@ -280,6 +281,7 @@
 | ------- |
 | [0844-backspace-string-compare](https://github.com/shivachahar01/LeetCode_Question/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shivachahar01/LeetCode_Question/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1544-make-the-string-great](https://github.com/shivachahar01/LeetCode_Question/tree/master/1544-make-the-string-great) |
 | [2000-reverse-prefix-of-word](https://github.com/shivachahar01/LeetCode_Question/tree/master/2000-reverse-prefix-of-word) |
 | [3174-clear-digits](https://github.com/shivachahar01/LeetCode_Question/tree/master/3174-clear-digits) |
 <!---LeetCode Topics End-->
