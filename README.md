@@ -30,6 +30,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/shivachahar01/LeetCode_Question/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/shivachahar01/LeetCode_Question/tree/master/1004-max-consecutive-ones-iii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shivachahar01/LeetCode_Question/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1352-product-of-the-last-k-numbers](https://github.com/shivachahar01/LeetCode_Question/tree/master/1352-product-of-the-last-k-numbers) |
 | [1470-shuffle-the-array](https://github.com/shivachahar01/LeetCode_Question/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/shivachahar01/LeetCode_Question/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/shivachahar01/LeetCode_Question/tree/master/1512-number-of-good-pairs) |
@@ -133,6 +134,7 @@
 | [0509-fibonacci-number](https://github.com/shivachahar01/LeetCode_Question/tree/master/0509-fibonacci-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/shivachahar01/LeetCode_Question/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shivachahar01/LeetCode_Question/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1352-product-of-the-last-k-numbers](https://github.com/shivachahar01/LeetCode_Question/tree/master/1352-product-of-the-last-k-numbers) |
 | [1512-number-of-good-pairs](https://github.com/shivachahar01/LeetCode_Question/tree/master/1512-number-of-good-pairs) |
 | [1927-sum-game](https://github.com/shivachahar01/LeetCode_Question/tree/master/1927-sum-game) |
 | [2235-add-two-integers](https://github.com/shivachahar01/LeetCode_Question/tree/master/2235-add-two-integers) |
@@ -145,6 +147,7 @@
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/shivachahar01/LeetCode_Question/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/shivachahar01/LeetCode_Question/tree/master/1004-max-consecutive-ones-iii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/shivachahar01/LeetCode_Question/tree/master/1352-product-of-the-last-k-numbers) |
 | [1480-running-sum-of-1d-array](https://github.com/shivachahar01/LeetCode_Question/tree/master/1480-running-sum-of-1d-array) |
 | [2574-left-and-right-sum-differences](https://github.com/shivachahar01/LeetCode_Question/tree/master/2574-left-and-right-sum-differences) |
 | [3364-minimum-positive-sum-subarray](https://github.com/shivachahar01/LeetCode_Question/tree/master/3364-minimum-positive-sum-subarray) |
@@ -276,6 +279,7 @@
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/shivachahar01/LeetCode_Question/tree/master/0707-design-linked-list) |
+| [1352-product-of-the-last-k-numbers](https://github.com/shivachahar01/LeetCode_Question/tree/master/1352-product-of-the-last-k-numbers) |
 ## Stack
 |  |
 | ------- |
@@ -284,4 +288,8 @@
 | [1544-make-the-string-great](https://github.com/shivachahar01/LeetCode_Question/tree/master/1544-make-the-string-great) |
 | [2000-reverse-prefix-of-word](https://github.com/shivachahar01/LeetCode_Question/tree/master/2000-reverse-prefix-of-word) |
 | [3174-clear-digits](https://github.com/shivachahar01/LeetCode_Question/tree/master/3174-clear-digits) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/shivachahar01/LeetCode_Question/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
