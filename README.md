@@ -43,6 +43,7 @@
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/shivachahar01/LeetCode_Question/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/shivachahar01/LeetCode_Question/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/shivachahar01/LeetCode_Question/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/shivachahar01/LeetCode_Question/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3875-construct-uniform-parity-array-i](https://github.com/shivachahar01/LeetCode_Question/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
@@ -138,6 +139,7 @@
 | [1512-number-of-good-pairs](https://github.com/shivachahar01/LeetCode_Question/tree/master/1512-number-of-good-pairs) |
 | [1927-sum-game](https://github.com/shivachahar01/LeetCode_Question/tree/master/1927-sum-game) |
 | [2235-add-two-integers](https://github.com/shivachahar01/LeetCode_Question/tree/master/2235-add-two-integers) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/shivachahar01/LeetCode_Question/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/shivachahar01/LeetCode_Question/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/shivachahar01/LeetCode_Question/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/shivachahar01/LeetCode_Question/tree/master/3871-count-commas-in-range-ii) |
@@ -249,6 +251,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/shivachahar01/LeetCode_Question/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/shivachahar01/LeetCode_Question/tree/master/1004-max-consecutive-ones-iii) |
 | [3364-minimum-positive-sum-subarray](https://github.com/shivachahar01/LeetCode_Question/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/shivachahar01/LeetCode_Question/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -292,4 +295,12 @@
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/shivachahar01/LeetCode_Question/tree/master/1352-product-of-the-last-k-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/shivachahar01/LeetCode_Question/tree/master/3411-maximum-subarray-with-equal-products) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/shivachahar01/LeetCode_Question/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
